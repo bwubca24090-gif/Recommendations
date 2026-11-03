@@ -1,0 +1,21 @@
+student_id,subject,interest,learning_style,completed_topic,marks,study_hours,attendance,recommended_topic
+1,Python,Programming,Video,Variables,85,3,92,Loops
+2,Python,Programming,Reading,Variables,65,1,75,Loops
+3,Mathematics,ProblemSolving,Practice,Algebra,78,2,88,Geometry
+4,Python,Programming,Practice,Loops,90,4,96,Functions
+5,Database,Technology,Video,SQL Basics,72,2,80,SQL Joins
+6,Mathematics,ProblemSolving,Reading,Geometry,60,1,70,Trigonometry
+7,Database,Technology,Practice,SQL Basics,88,3,95,SQL Joins
+8,Python,Programming,Video,Functions,82,2,90,OOP
+9,Mathematics,ProblemSolving,Practice,Algebra,92,4,98,Geometry
+10,Database,Technology,Reading,SQL Joins,67,1,76,Database Design
+11,Python,Programming,Practice,Loops,75,2,85,Functions
+12,Mathematics,ProblemSolving,Video,Geometry,80,3,91,Trigonometry
+13,Database,Technology,Video,SQL Joins,84,3,93,Database Design
+14,Python,Programming,Reading,Functions,70,2,82,OOP
+15,Mathematics,ProblemSolving,Practice,Algebra,55,1,65,Geometry
+16,Database,Technology,Practice,SQL Basics,95,4,99,SQL Joins
+17,Python,Programming,Video,Variables,78,2,86,Loops
+18,Mathematics,ProblemSolving,Reading,Geometry,73,2,84,Trigonometry
+19,Database,Technology,Practice,SQL Joins,89,3,94,Database Design
+20,Python,Programming,Practice,Functions,93,4,97,OOP
